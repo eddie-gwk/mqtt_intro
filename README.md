@@ -860,8 +860,8 @@ public class Publisher implements MqttCallback {
 
 ## 4. 参考文档
 
-[MQTTv5协议中文版](http://mqtt.p2hp.com/mqtt-5-0)
-[MQTT v 5.0 New Features Overview](http://www.steves-internet-guide.com/mqttv5/)
-[OASIS MQTT Version 5.0](http://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html)
-[MQTT5探索](https://www.emqx.com/zh/mqtt/mqtt5)
+[MQTTv5协议中文版](http://mqtt.p2hp.com/mqtt-5-0) <br>
+[MQTT v 5.0 New Features Overview](http://www.steves-internet-guide.com/mqttv5/) <br>
+[OASIS MQTT Version 5.0](http://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html) <br>
+[MQTT5探索](https://www.emqx.com/zh/mqtt/mqtt5) <br>
 [MQTT v5 – New Opportunities For IoT Development](https://mobidev.biz/blog/mqtt-5-protocol-features-iot-development)
